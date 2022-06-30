@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **biswajitchikal847@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12UL2QqAHbFggHgejV3Y_aVgRtZspD6Vp/view?usp=sharing](https://drive.google.com/file/d/12UL2QqAHbFggHgejV3Y_aVgRtZspD6Vp/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tA8nq148IVvbEJUJ9vBB7zlx3SVs_KPv/view?usp=sharing)
 
 - ⚡ Fun fact **I make memes**
 
