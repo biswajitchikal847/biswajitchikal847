@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Biswajit Biswal</h1>
-<h3 align="center">A passionate aspiring frontend developer</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajitchikal847&label=Profile%20views&color=0e75b6&style=flat" alt="biswajitchikal847" /> </p>
 
 - 🌱 I’m currently learning **Fullstack web development**
-
-- 🤝 I’m looking for **Web developer role**
 
 - 💬 Ask me about **Javascript**
 
